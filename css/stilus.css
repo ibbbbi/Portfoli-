@@ -15,11 +15,14 @@ li a{
 }
 ul{
     overflow: hidden;
-    position: sticky;
     width: auto;
 }
 ul.menusor{
     background-color: lightslategray;
     top:0;
     padding: 3mm;
+}
+div{
+    width: 75%;
+    
 }
