@@ -4,14 +4,27 @@ body{
 ul.menusor{
     background-color: lightslategray;
     padding: 3mm;
-    position: sticky;
     top: 0;
+    color: black;
+}
+a.menusor:link{
+    color: black;
+}
+a.menusor:hover{
+    color: black;
+}
+a.menusor:visited{
+    color: black;
+}
+a.menusor:active{
+    color: black;
 }
 li{
     display: inline;
 }
 h1{
     font-size: xx-large;
+    text-decoration: black;
 }
 table{
     border-color: lightgrey;
