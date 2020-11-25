@@ -1,37 +1,25 @@
 body{
     background-color: #70ba79;
-}
-a.menusor:link{
-    color: black;
-}
-a.menusor:visited{
-    color: black;
-}
-a.menusor:hover{
-    color: black;
-}
-a.menusor:active{
-    color: black;
-}
-ul{
-    position: sticky;
-}
-ul.menusor{
-    background-color: lightslategray;
-    padding: 3mm;
-    top: 0;
+    font-family: sans-serif;
 }
 li{
     display: inline;
 }
 li a{
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 10px;
     text-decoration: none;
-    font-size: 17px;
-    color:black
-}
-h1{
-    font-size: xx-large;
     color: black;
+    font-size: 14px;
+    font-style: italic;
+}
+ul{
+    overflow: hidden;
+    position: sticky;
+    width: auto;
+}
+ul.menusor{
+    background-color: lightslategray;
+    top:0;
+    padding: 3mm;
 }
