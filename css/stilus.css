@@ -1,22 +1,22 @@
 body{
     background-color: #70ba79;
 }
-ul.menusor{
-    background-color: lightslategray;
-    padding: 3mm;
-    top: 0;
-    color: black;
-}
 a.menusor:link{
-    color: black;
-}
-a.menusor:hover{
     color: black;
 }
 a.menusor:visited{
     color: black;
 }
+a.menusor:hover{
+    color: black;
+}
 a.menusor:active{
+    color: black;
+}
+ul.menusor{
+    background-color: lightslategray;
+    padding: 3mm;
+    top: 0;
     color: black;
 }
 li{
