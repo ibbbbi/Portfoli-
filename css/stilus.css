@@ -1,0 +1,18 @@
+body{
+    background-color: #70ba79;
+}
+ul.menusor{
+    background-color: lightslategray;
+    padding: 3mm;
+    position: sticky;
+    top: 0;
+}
+li{
+    display: inline;
+}
+h1{
+    font-size: xx-large;
+}
+table{
+    border-color: lightgrey;
+}
