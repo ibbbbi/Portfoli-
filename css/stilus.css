@@ -13,19 +13,25 @@ a.menusor:hover{
 a.menusor:active{
     color: black;
 }
+ul{
+    position: sticky;
+}
 ul.menusor{
     background-color: lightslategray;
     padding: 3mm;
     top: 0;
-    color: black;
 }
 li{
     display: inline;
 }
+li a{
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color:black
+}
 h1{
     font-size: xx-large;
-    text-decoration: black;
-}
-table{
-    border-color: lightgrey;
+    color: black;
 }
