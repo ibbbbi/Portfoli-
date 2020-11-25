@@ -23,9 +23,13 @@ ul.menusor{
     top:0;
     padding: 3mm;
 }
+
 h1.focim{
     color: black;
 }
 div.szoveg{
     padding: 50px;
+}
+td{
+    padding:10px;
 }
